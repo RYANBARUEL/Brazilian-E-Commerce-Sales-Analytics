@@ -46,9 +46,13 @@ The data cleaning, transformation, validation, and analysis steps were performed
 
 ### Sales Overview
 
+![Sales Overview Dashboard](sales-overview.png)
+
 The Sales Overview dashboard provides an overview of key sales and order performance indicators, including revenue trends, product performance, and seller performance.
 
 ### Customer & Product Insights
+
+![Customer & Product Insights Dashboard](customer-product-insights.png)
 
 The Customer & Product Insights dashboard provides additional analysis of customer distribution, product categories, payment methods, and other business performance indicators.
 
