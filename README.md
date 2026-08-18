@@ -36,6 +36,12 @@ The dataset was prepared through several data cleaning and validation steps, inc
 * Validating relationships between datasets
 * Preparing data for analysis and visualization
 
+### SQL Analysis
+
+The data cleaning, transformation, validation, and analysis steps were performed using Microsoft SQL Server.
+
+[View the SQL analysis script](sql/brazilian_ecommerce_analysis.sql)
+
 ## Dashboard
 
 ### Sales Overview
